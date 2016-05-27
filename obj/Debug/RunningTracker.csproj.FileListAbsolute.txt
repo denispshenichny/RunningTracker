@@ -1,0 +1,10 @@
+C:\Users\Den\Documents\Visual Studio 2012\Projects\RunningTracker\RunningTracker\bin\Debug\RunningTracker.exe
+C:\Users\Den\Documents\Visual Studio 2012\Projects\RunningTracker\RunningTracker\bin\Debug\RunningTracker.pdb
+C:\Users\Den\Documents\Visual Studio 2012\Projects\RunningTracker\RunningTracker\obj\Debug\RunningTracker.csprojResolveAssemblyReference.cache
+C:\Users\Den\Documents\Visual Studio 2012\Projects\RunningTracker\RunningTracker\obj\Debug\RunningTracker.MainForm.resources
+C:\Users\Den\Documents\Visual Studio 2012\Projects\RunningTracker\RunningTracker\obj\Debug\RunningTracker.Properties.Resources.resources
+C:\Users\Den\Documents\Visual Studio 2012\Projects\RunningTracker\RunningTracker\obj\Debug\RunningTracker.csproj.GenerateResource.Cache
+C:\Users\Den\Documents\Visual Studio 2012\Projects\RunningTracker\RunningTracker\obj\Debug\RunningTracker.exe
+C:\Users\Den\Documents\Visual Studio 2012\Projects\RunningTracker\RunningTracker\obj\Debug\RunningTracker.pdb
+C:\Users\Den\Documents\Visual Studio 2012\Projects\RunningTracker\RunningTracker\obj\Debug\RunningTracker.BaseMapEditForm.resources
+C:\Users\Den\Documents\Visual Studio 2012\Projects\RunningTracker\RunningTracker\obj\Debug\RunningTracker.exe.licenses
